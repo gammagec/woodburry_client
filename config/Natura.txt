@@ -52,7 +52,7 @@ disabler {
     B:"Generate Hopseed Trees"=true
     B:"Generate Maloberry Bushes"=true
     B:"Generate Raspberry Bushes"=true
-    B:"Generate Redwood Trees"=true
+    B:"Generate Redwood Trees"=false
     B:"Generate Saguaro Cactus"=true
     B:"Generate Sakura Trees"=true
     B:"Generate Skyberry Bushes"=true
