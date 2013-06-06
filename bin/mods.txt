@@ -1,3 +1,0 @@
-minecraftforge-universal-1.5.1-7.7.2.682.zip
-[1.5.1]ReiMinimap_v3.3_04.zip
-OptiFine_1.5.1_HD_U_D1.zip
