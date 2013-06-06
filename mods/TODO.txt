@@ -1,0 +1,54 @@
+1.5.2
+
+**AssemblyLine v0.3.5.108
+**Atomic_Science v0.5.1.19
+**BasicComponents v1.3.2.79
+??ComplexMachines v0.3.2.36
+**ElectricExpansion v2.2.1.50
+**FluidMechanics 0.4.3.78
+**ICBM Contraption / Explosion / Sentry 1.1.2.68
+**Mekanism 5.5.4.33
+**MFFS 3.0.0.101
+??MineChem v3.x.100
+
+--Factorization 0.7.37
+--PowerConverters 2.3.0-54
+
+**PowerCrystalCore 1.1.5-2
+**MinefactorReloaded 2.6.0-862
+
+**bspkrsCorev2.02
+??IC2NuclearControl 1.5.1c
+**industrialcraft-2_1.115.336-lf
+**InventoryTweaks 1.53
+**ironchest-1.5.1-5.2.4.391
+**MobAmputation 1.5.1v1
+**MobDismemberment 1.5.1v1
+??ModularPowersuits -0.6.0-444
+??MPSA-0.2.3-119_MPS-422
+??Natura_1.5.1_2.0.19
+**RottenFleshToLeather 1.5.1
+??StevesCarts2.0.0.a117
+??Tinker's Construct 1.3.3.15
+**TreeCapacitator 1.5.1.r01
+
+??Lanterns 1.3.5
+**lloverlay 0.10-mc1_5_1
+
+Woodburry Mod
+
+Plugins --
+Essentials
+EssentialsAntiBuild
+EssentialsChat
+EssentialsGroupBridge
+EssentialsGroupManager
+EssentialsProtect
+EssentialsSpawn
+Factions
+Lockette
+SQLibrary
+Vault
+WoodburryPlugin
+WorldBorder
+WorldEdit
