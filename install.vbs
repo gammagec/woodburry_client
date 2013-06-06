@@ -14,14 +14,20 @@ targetDir = appDataDir & "\.minecraft\"
 
 WScript.Echo "TargetDir = " & targetDir
 
-fso.DeleteFile(targetDir & "mods\*")
-fso.DeleteFolder(targetDir & "mods\*")
+if(fso.FolderExists(targetDir & "mods\")) then
+	fso.DeleteFile(targetDir & "mods\*")
+	fso.DeleteFolder(targetDir & "mods\*")
+end if
 
-fso.DeleteFile(targetDir & "coremods\*")
-fso.DeleteFolder(targetDir & "coremods\*")
+if(fso.FolderExists(targetDir & "coremods\")) then
+	fso.DeleteFile(targetDir & "coremods\*")
+	fso.DeleteFolder(targetDir & "coremods\*")
+end if
 
-fso.DeleteFile(targetDir & "config\*")
-fso.DeleteFolder(targetDir & "config\*")
+if(fso.FolderExists(targetDir & "config\")) then
+	fso.DeleteFile(targetDir & "config\*")
+	fso.DeleteFolder(targetDir & "config\*")
+end if
 
 call RecurseDir("", rootDir)
 
